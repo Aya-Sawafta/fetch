@@ -1,0 +1,13 @@
+body {
+    background-color: aliceblue;
+}
+
+.pizza-items {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pizza-item {
+    width: 30%;
+    background-color: antiquewhite;
+}
